@@ -32,7 +32,7 @@ with
     }
 
 ### CoffeeScript
-It looks even nice in CoffeeScript:
+It looks even nicer in CoffeeScript:
 
     onerr = require "onerr"
 
